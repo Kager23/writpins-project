@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">writpins-project</string>
+    <string name="title_activity_main">writpins-project</string>
+    <string name="package_name">fr.shielandchill.app</string>
+    <string name="custom_url_scheme">fr.shielandchill.app</string>
+</resources>
